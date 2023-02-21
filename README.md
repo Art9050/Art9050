@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Artem
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/xT1XGEVSIzSoraiPTO/giphy.gif" width="100"/>
 </div>
 
