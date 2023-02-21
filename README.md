@@ -5,7 +5,9 @@
 <div id="header" align="right">
   <img src="https://komarev.com/ghpvc/?username=Art9050&style=flat-square&color=blue" alt=""/>
 </div>
-- 🌱 I’m currently studying world of databases and data engeentring
+
+- :telescope: I'm currently studying world of databases and data engineering
+
 <!--
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
