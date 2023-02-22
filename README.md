@@ -59,3 +59,6 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#github-
 <a style="display:block" href="https://github.com/Art9050/DataEngineering">
   <div class="xyz">SberUniversity. Program "Data Engineer" August 29, 2022 - February 28, 2023</div>
 </a>
+<!--
+https://stackoverflow.com/questions/9228730/how-do-i-make-entire-div-a-link
+-->
