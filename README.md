@@ -54,4 +54,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#github-
 ---
 
 ### :writing_hand: Blog Posts :
+-2022 August 29 - I study databases and data engineering at Sber University
 
+<a style="display:block" href="https://github.com/Art9050/DataEngineering">
+  <div class="xyz">SberUniversity. Program "Data Engineer" August 29, 2022 - February 28, 2023</div>
+</a>
