@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Art9050&style=flat-square&color=blue" alt=""/>
 </div>
 
+
 :pushpin: I'm currently studying world of databases and data engineering
 
 <!--
@@ -59,3 +60,4 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#github-
 <!--
 https://stackoverflow.com/questions/9228730/how-do-i-make-entire-div-a-link
 -->
+
