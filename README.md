@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Artem
 <div id="header" align="right">
-  <img src="https://media.giphy.com/media/xT1XGEVSIzSoraiPTO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xT1XGEVSIzSoraiPTO/giphy.gif" width="113"/>
 </div>
 <div id="header" align="right">
   <img src="https://komarev.com/ghpvc/?username=Art9050&style=flat-square&color=blue" alt=""/>
 </div>
 
-- :telescope: I'm currently studying world of databases and data engineering
+:pushpin: I'm currently studying world of databases and data engineering
 
 <!--
 **Art9050/Art9050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-
 
 ---
 
-- ### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
