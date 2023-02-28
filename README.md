@@ -53,7 +53,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#github-
 -->
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: My activity :
 -2022 August 29 - I study databases and data engineering at Sber University
 
 <a style="display:block" href="https://github.com/Art9050/DataEngineering">
