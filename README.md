@@ -70,6 +70,7 @@ https://stackoverflow.com/questions/9228730/how-do-i-make-entire-div-a-link
 3. Пет проект:
 ---Пет проект1
   - Берем API для AuthorToday - есть логин
+  --файлик с логином в закрытый репозиторий!!
    https://api.author.today/home/maininfo
   По этому апи делаем парсинг инфы по произведениям у меня в профиле
   группа: читаю, отложено, ...
