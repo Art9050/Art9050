@@ -59,7 +59,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#github-
 
 [-2022 August 29 - I study databases and data engineering at Sber University](https://github.com/Art9050/DataEngineering)
 
-[-2023 Июнь 01 - Я разбираюсь с парсингом по API]()
+[-2023 Июнь 01 - Разбираюсь с парсингом по API](https://github.com/Art9050/pet/tree/main/pars_kinopoisk)
 
 <!--
 https://stackoverflow.com/questions/9228730/how-do-i-make-entire-div-a-link
