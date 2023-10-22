@@ -61,6 +61,9 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#github-
 
 [-2023 Июнь 01 - Разбираюсь с парсингом по API](https://github.com/Art9050/pet/tree/main/pars_kinopoisk)
 
+[-2023 Октябрь 18 - Прохожу "Базовый курс по анализу данных (2023)" от Тинька ]()
+
+
 <!--
 https://stackoverflow.com/questions/9228730/how-do-i-make-entire-div-a-link
 -->
