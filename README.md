@@ -61,7 +61,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#github-
 
 [-2023 Июнь 01 - Разбираюсь с парсингом по API](https://github.com/Art9050/pet/tree/main/pars_kinopoisk)
 
-[-2023 Октябрь 18 - Прохожу "Базовый курс по анализу данных (2023)" от Тинька ]()
+[-2023 Октябрь 18 - Прохожу "Базовый курс по анализу данных (2023)" от Тинька ](https://github.com/Art9050/learning/tree/main/Basic%20course%20in%20data%20analysis%20(2023)_Tink)
 
 
 <!--
