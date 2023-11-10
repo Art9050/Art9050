@@ -1,11 +1,4 @@
 ### Hi there 👋, I'm Artem
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/xT1XGEVSIzSoraiPTO/giphy.gif" width="113"/>
-</div>
-<div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=Art9050&style=flat-square&color=blue" alt=""/>
-</div>
-
 
 :pushpin: I'm currently studying world of databases and data engineering
 
