@@ -56,6 +56,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#github-
 
 [-2023 Октябрь 18 - Прохожу "Базовый курс по анализу данных (2023)" от Тинька ](https://github.com/Art9050/learning/tree/main/Basic%20course%20in%20data%20analysis%20(2023)_Tink)
 
+[-2023 Решаю тестовые задачки с собесов](https://github.com/Art9050/Test_Work)
+
 
 <!--
 https://stackoverflow.com/questions/9228730/how-do-i-make-entire-div-a-link
